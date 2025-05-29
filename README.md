@@ -26,3 +26,10 @@ The primary source of data used here is the Data Sale.csv and this is an open so
   - Report creation
 - Ms Power Point 
     - Presentation creation
+ 
+### Data Analsis
+Thisis where we include some basic lines of codes or queries or even some of the DAX expressions used during your analysis
+
+``` SQL
+Select A,B,C
+Where A> 15
